@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# Local tools (e.g., LibreOfficePortable)
+tools/
+
+# OS cruft
+.DS_Store
+Thumbs.db
